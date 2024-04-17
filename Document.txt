@@ -1,0 +1,3 @@
+<p dir="ltr">Do patient 78 year old</p>
+<p dir="ltr">Nice line<br>
+He has been <u>blessed</u> on B12 iron <b>and</b> <u>epochon</u></p>
